@@ -1,0 +1,26 @@
+/******* Hoja de estilo de la receta de cocina*******/
+
+
+body {background-image: url(../imagen/mantel.jpg);
+        padding: 20px;
+        font-family: 'BenchNine', sans-serif;
+        font-family: 'Exo 2', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'News Cycle', sans-serif;}
+
+#container {width: 80%;
+            background-color: rgba(255, 255, 255, 0.897);
+            margin: auto;
+            padding: 23px;}
+
+#container h1{text-align: center;}
+
+
+#container h2 {background-color: #798EF6;
+                padding: 10px;}
+
+#container dl dt {font-weight: bold;}
+
+
+#container iframe {margin:auto;
+                    display: block;}
